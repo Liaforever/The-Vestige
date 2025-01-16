@@ -10,7 +10,7 @@
       <h2>Check out the NEW ARRIVALS aisle at Jarir Bookstore!</h2>
         <p>Be sure to get it soon!</p>
         <figure>
-        <img src="TheVestige.jpg">
+        <img src="THE VESTIGE.pdf">
           <figcaption>B00K C0VER</figcaption>
         </figure>
 <a href="https://www.canva.com/design/DAGcGvbnxO4/9KWCM-o8JGfRVQQ2W0qbHQ/view?utm_content=DAGcGvbnxO4&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener" style="font-weight: bold; color: #ff3366; text-decoration: none;"></a>
