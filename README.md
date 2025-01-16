@@ -9,12 +9,11 @@
       <h2>Check out the NEW ARRIVALS aisle at Jarir Bookstore!</h2>
       <p>Be sure to get it soon!</p>
       <figure>
-        <iframe 
+    <iframe
     src="THE VESTIGE.pdf" 
-    width="50%" 
+    width="100%" 
     height="600px">
 </iframe>
-
         <figcaption>B00K C0VER</figcaption>
       </figure>
       <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
