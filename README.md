@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>NEW BOOK</title>
-    <meta charset="utf-8" />
+    <meta charset="utf-8"/>
   </head>
   <body>
     <main>
@@ -14,7 +13,9 @@
         <figcaption>B00K C0VER</figcaption>
       </figure>
 
-      <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">Click here!</a>
+      <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
+      <p>Click here!</p>
+      </a>
 
       <h3>Buying the Physical version?</h3>
       <p>Here is the list of stores you can go to buy the book as per your convenience:</p>
