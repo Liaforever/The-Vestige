@@ -12,11 +12,9 @@
         <img src="THE VESTIGE.pdf"/>
         <figcaption>B00K C0VER</figcaption>
       </figure>
-
       <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
       <p>Click here!</p>
       </a>
-
       <h3>Buying the Physical version?</h3>
       <p>Here is the list of stores you can go to buy the book as per your convenience:</p>
       <ul>
@@ -24,7 +22,6 @@
         <li>Ocasta</li>
         <li>Bastion & Co</li>
       </ul>
-
       <h4>Buying the eBook?</h4>
       <p>Here are the steps:</p>
       <ol>
