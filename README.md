@@ -13,7 +13,7 @@
         <figcaption>B00K C0VER</figcaption>
       </figure>
       <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
-      <p>Click here!</p>
+      <p>Click here if the image isn't available even after refreshing the page!</p>
       </a>
       <h3>Buying the Physical version?</h3>
       <p>Here is the list of stores you can go to buy the book as per your convenience:</p>
