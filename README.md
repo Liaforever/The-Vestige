@@ -11,9 +11,10 @@
       <figure>
         <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
     <img src="THE VESTIGE.jpg"/>
+        </a>
         <figcaption>B00K C0VER</figcaption>
       </figure>
-        </a>
+        
       <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
       <p>Click here if the image isn't available even after refreshing the page!</p>
       </a>
