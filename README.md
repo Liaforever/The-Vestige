@@ -9,9 +9,11 @@
       <h2>Check out the NEW ARRIVALS aisle at Jarir Bookstore!</h2>
       <p>Be sure to get it soon!</p>
       <figure>
+        <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
     <img src="THE VESTIGE.jpg"/>
         <figcaption>B00K C0VER</figcaption>
       </figure>
+        </a>
       <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
       <p>Click here if the image isn't available even after refreshing the page!</p>
       </a>
