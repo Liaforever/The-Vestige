@@ -34,9 +34,11 @@
       </ol>
       <section>
         <h2>Read the book? Give us feedback!</h2>
+       <h2>Cat Form</h2>
         <form action="https://github.com/Liaforever/The-Vestige">
+          <input type="text" name="feedback" placeholder="Lovin' it! The philosophical realms are so complex!" required>
+          <button type="submit">Submit, elliptically 😉</button>
         </form>
-        <input type="text" name="feedback" placeholder="feedback">
     </main>
   </body>
 </html>
