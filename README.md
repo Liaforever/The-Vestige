@@ -32,6 +32,11 @@
         <li>Click on the book with the <em>AUTHENTIC</em> book cover. <strong>[the one on the top of the webpage]</strong></li>
         <li>Either click on <em>add to cart</em> or click <em>buy now</em></li>
       </ol>
+      <section>
+        <h2>Read the book? Give us feedback!</h2>
+        <form action="https://github.com/Liaforever/The-Vestige">
+        </form>
+        <input type="text" name="feedback" placeholder="feedback">
     </main>
   </body>
 </html>
