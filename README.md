@@ -10,12 +10,12 @@
       <p>Be sure to get it soon!</p>
       <figure>
         <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
-    <img src="THE VESTIGE.jpg"/>
+          <img src="THE VESTIGE.jpg" alt="The Vestige Book Cover"/>
         </a>
         <figcaption>B00K C0VER</figcaption>
       </figure>
       <a href="https://grill-inn.my.canva.site/the-vestige" target="_blank" rel="noopener">
-      <p>Click here if the image isn't available even after refreshing the page!</p>
+        <p>Click here if the image isn't available even after refreshing the page!</p>
       </a>
       <h3>Buying the Physical version?</h3>
       <p>Here is the list of stores you can go to buy the book as per your convenience:</p>
@@ -32,12 +32,19 @@
         <li>Click on the book with the <em>AUTHENTIC</em> book cover. <strong>[the one on the top of the webpage]</strong></li>
         <li>Either click on <em>add to cart</em> or click <em>buy now</em></li>
       </ol>
+
       <section>
         <h2>Read the book? Give us feedback!</h2>
-          <form action="https://github.com/Liaforever/The-Vestige"/>
+        <form action="#" method="POST">
+          <!-- Feedback Input -->
           <input type="text" name="feedback" placeholder="Lovin' it! The philosophical realms are so complex!" required>
+          
+          <!-- Submit Button -->
           <button type="submit">Submit, elliptically 😉</button>
-          </form>
+        </form>
+      </section>
     </main>
   </body>
 </html>
+
+     
