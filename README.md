@@ -37,6 +37,7 @@
           <form action="https://github.com/Liaforever/The-Vestige"/>
           <input type="text" name="feedback" placeholder="Lovin' it! The philosophical realms are so complex!" required>
           <button type="submit">Submit, elliptically 😉</button>
+          </form>
     </main>
   </body>
 </html>
