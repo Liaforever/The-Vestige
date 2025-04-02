@@ -35,7 +35,6 @@
 
   <section>
         <h2>Read the book? Give us feedback!</h2>
-        <form action="#" method="POST">
           <!-- Feedback Input -->
           <input type="text" name="feedback" placeholder="Lovin' it! The philosophical realms are so complex!" required>
           
