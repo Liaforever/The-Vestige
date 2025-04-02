@@ -33,14 +33,14 @@
         <li>Either click on <em>add to cart</em> or click <em>buy now</em></li>
       </ol>
 
-      <section>
+  <section>
         <h2>Read the book? Give us feedback!</h2>
         <form action="#" method="POST">
           <!-- Feedback Input -->
           <input type="text" name="feedback" placeholder="Lovin' it! The philosophical realms are so complex!" required>
           
           <!-- Submit Button -->
-          <button type="submit">Submit, elliptically 😉</button>
+  <button type="submit">Submit, elliptically 😉</button>
         </form>
       </section>
     </main>
